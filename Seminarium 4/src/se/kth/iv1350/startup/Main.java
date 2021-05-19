@@ -10,8 +10,6 @@ public class Main {
 		Controller controller = new Controller();
 		View view = new View(controller);
 		
-		//controller.scanItem(11111, 1);
-		
 	}
 
 }
